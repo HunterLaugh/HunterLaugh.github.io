@@ -1,21 +1,26 @@
 ## new concept English II
 
-- a private conversation  <br/> 
+1. a private conversation  <br/> 
 	theathe, speak loudly, actors, none of your business
-- breakfest or lunch
+2. breakfest or lunch <br/>
 	Sunday, late, dark, aunt
-- an exciting trip
-	brother, Australia, Alice Spring, car, Engineer
-- no wrong numbers
-	garage, Mr. Scott, pigeans, telephone
-- please send me a card
+3. please send me a card <br/>
 	postcard, spoil, Italy, whole
-- a cold welcome
-	Town Hall clock, stop, refuse
-- Percy Buttons
+4. an exciting trip <br/>
+	brother, Australia, Alice Spring, car, Engineer
+5. no wrong numbers <br/>
+	garage, Mr. Scott, pigeans, telephone
+6. Percy Buttons <br/>
 	beggar, stood up on head, Bridge Street
-- too late
+7. too late <br/>
 	diamond, parcel, South Afica, theives, steal, ariport, detectives
+8. the best and the worst <br/>
+	the nicest garden competition, large, Joe, Bill, enters for
+9. a cold welcome <br/>
+	Town Hall clock, stop, refuse
+10. not for jazz
+
+
 
 
 
